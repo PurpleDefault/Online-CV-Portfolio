@@ -62,26 +62,23 @@ section.button_container {
   width: 25%;
   border-bottom: 0.25em solid yellow;
   background-color: green;
+  background-size: contain;
 }
 
 section#home {
   background: url(images/home.svg) no-repeat center center;
-  background-size: contain;
 }
 
 section#portfolio {
   background: url(images/2.svg) no-repeat center center;
-  background-size: contain;
 }
 
 section#about {
   background: url(images/3.svg) no-repeat center center;
-  background-size: contain;
 }
 
 section#contact {
   background: url(images/4.svg) no-repeat center center;
-  background-size: contain;
 }
 
 section.page_container {
