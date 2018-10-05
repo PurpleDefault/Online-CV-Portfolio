@@ -60,13 +60,13 @@ section.button_container {
   display: inline-block;
   height: 100%;
   width: 25%;
-  border-bottom: 1em solid yellow;
+  border-bottom: 0.25em solid yellow;
   background-color: green;
 }
 
 section#home {
   background: url(images/home.svg) no-repeat center center;
-  background-size: cover;
+  background-size: contain;
 }
 
 section.page_container {
