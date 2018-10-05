@@ -59,8 +59,11 @@ section.button_container {
   display: inline-block;
   height: 100%;
   width: 25%;
-  border-bottom: 0.3em solid lightgray;
   background-size: contain;
+}
+
+section.button_container:nth-child(1) {
+  border-bottom: 0.3em solid lightgray;
 }
 
 section#home {
