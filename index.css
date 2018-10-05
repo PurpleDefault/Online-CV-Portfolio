@@ -48,7 +48,6 @@ blockquote, q {
 
 section.navigation {
   position: fixed;
-  background-color: blue;
   top: 0px;
   left: 0px;
   width: 100%;
@@ -60,8 +59,7 @@ section.button_container {
   display: inline-block;
   height: 100%;
   width: 25%;
-  border-bottom: 0.25em solid yellow;
-  background-color: green;
+  border-bottom: 0.5em solid gray;
   background-size: contain;
 }
 
