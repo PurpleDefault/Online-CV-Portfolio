@@ -64,7 +64,7 @@ section.button_container {
 }
 
 section.button_container:nth-child(1) {
-  border-bottom: 0.3em solid lightgray;
+  border-bottom: 0.3em solid white;
 }
 
 section#home {
