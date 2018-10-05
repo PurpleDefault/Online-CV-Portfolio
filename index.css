@@ -100,8 +100,8 @@ section#logo_page {
 
 section#logo_container {
   position: absolute;
-  width: 15em;
-  height: 15em;
+  width: 16em;
+  height: 16em;
   top: 50%;
   left:50%;
   transform: translate(-50%, -50%);
