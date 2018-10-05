@@ -100,7 +100,7 @@ section#logo_page {
 
 section#portfolio_page {
   background-color: red;
-  background: url(images/bg2.png no-repeat center center;
+  background: url(images/bg2.png) no-repeat center center;
   background-size: cover;
 }
 
