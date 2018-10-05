@@ -60,7 +60,7 @@ section.button_container {
   display: inline-block;
   height: 100%;
   width: 25%;
-  border-bottom: 2px solid yellow;
+  border-bottom: 1em solid yellow;
   background-color: green;
 }
 
