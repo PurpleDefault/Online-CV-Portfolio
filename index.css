@@ -93,8 +93,8 @@ section.page_container {
 
 section#logo_container {
   position: absolute;
-  width: 25em;
-  height: 25em;
+  width: 20em;
+  height: 20em;
   background-color: green;
   top: 50%;
   left:50%;
