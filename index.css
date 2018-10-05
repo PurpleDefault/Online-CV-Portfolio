@@ -85,14 +85,13 @@ section.page_container {
   left: 0px;
   height: 100%;
   width: 100%;
-  background-color: red;
   z-index: 0;
 }
 
 section#logo_container {
   position: absolute;
-  width: 15em;
-  height: 15em;
+  width: 20em;
+  height: 20em;
   background-color: green;
   top: 50%;
   left:50%;
