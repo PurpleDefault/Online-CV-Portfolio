@@ -64,6 +64,11 @@ section.button_container {
   background-color: green;
 }
 
+section#home {
+  background: url(images/home.svg) no-repeat center center;
+  background-size: cover;
+}
+
 section.page_container {
   position: absolute;
   top: 0px;
