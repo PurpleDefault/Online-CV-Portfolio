@@ -85,6 +85,7 @@ section#contact {
 
 section.page_container {
   position: absolute;
+  display: inline-block;
   top: 0px;
   left: 0px;
   height: 100%;
