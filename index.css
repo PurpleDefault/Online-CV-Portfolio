@@ -105,5 +105,5 @@ section#logo_container {
   left:50%;
   transform: translate(-50%, -50%);
   background: url(images/logo.svg) no-repeat center center;
-  background-size: cover;
+  background-size: contain;
 }
