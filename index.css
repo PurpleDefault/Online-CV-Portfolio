@@ -88,3 +88,13 @@ section.page_container {
   background-color: red;
   z-index: 0;
 }
+
+section#logo_container {
+  position: absolute;
+  width: 10em;
+  height: 10em;
+  background-color: green;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
