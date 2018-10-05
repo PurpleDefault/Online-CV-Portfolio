@@ -98,6 +98,12 @@ section#logo_page {
   background-size: cover;
 }
 
+section#portfolio_page {
+  background-color: red;
+  background: url(images/bg2.png no-repeat center center;
+  background-size: cover;
+}
+
 section#logo_container {
   position: absolute;
   width: 17em;
