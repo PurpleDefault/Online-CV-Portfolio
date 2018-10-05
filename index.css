@@ -59,7 +59,7 @@ section.button_container {
   display: inline-block;
   height: 100%;
   width: 25%;
-  border-bottom: 0.5em solid gray;
+  border-bottom: 0.3em solid gray;
   background-size: contain;
 }
 
