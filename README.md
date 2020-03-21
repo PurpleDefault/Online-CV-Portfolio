@@ -1,2 +1,2 @@
 # Online-CV-Portfolio
-My Online CV
+My Online CV & Portfolio
